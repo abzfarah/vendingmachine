@@ -1,12 +1,10 @@
 /***********************************************************************
  * COSC1076 - Advanced Programming Techniques
  * Semester 2 2015 Assignment #2
- * Full Name        : EDIT HERE
- * Student Number   : EDIT HERE
- * Course Code      : EDIT HERE
- * Program Code     : EDIT HERE
- * Start up code provided by Paul Miller
- * Some codes are adopted here with permission by an anonymous author
+ * Full Name        : Abdi Farah
+ * Student Number   : 543707
+ * Course Code      : MEC20004
+ * Program Code     : MSc
  ***********************************************************************/
 
 #include "ppd_utility.h"
